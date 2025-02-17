@@ -19,5 +19,5 @@ Heres a cool website I found. I recently went back and found the original winamp
 [Achive of Winamp Skins](https://skins.webamp.org/
 )
 
-And finally, a photo from this week with my friend for scale of the icicles on our aaprtment. 
+And finally, a photo from this week with my friend for scale of the icicles on our apartment. 
 ! [crazy ice](./Assignment-03/images/bentonice.jpg) 
